@@ -1,0 +1,117 @@
+{   "productosIndumentaria": [
+  {
+  "id": 1,
+  "nombre": "Camiseta",
+  "imagen": "img/Remera1.webp",
+  "precio": 29.99
+  },
+  {
+  "id": 2,
+  "nombre": "Camiseta",
+  "imagen": "img/Remera2.webp",
+  "precio": 39.99
+  },
+  {
+  "id": 3,
+  "nombre": "Camiseta",
+  "imagen": "img/Remera3.webp",
+  "precio": 49.99
+  },
+  {
+  "id": 4,
+  "nombre": "Camiseta",
+  "imagen": "img/Remera4.webp",
+  "precio": 49.99
+  },
+  {
+  "id": 5,
+  "nombre": "Camiseta",
+  "imagen": "img/Remera5.webp",
+  "precio": 49.99
+  },
+  {
+  "id": 6,
+  "nombre": "Buzo",
+  "imagen": "img/Buzo1.webp",
+  "precio": 19.99
+  },
+  {
+  "id": 7,
+  "nombre": "Buzo",
+  "imagen": "img/Buzo2.webp",
+  "precio": 24.99
+  },
+  {
+  "id": 8,
+  "nombre": "Buzo",
+  "imagen": "img/Buzo3.webp",
+  "precio": 29.99
+  },
+  {
+  "id": 9,
+  "nombre": "Pantalón",
+  "imagen": "img/Pantalon1.webp",
+  "precio": 34.99
+  },
+  {
+  "id": 10,
+  "nombre": "Pantalón",
+  "imagen": "img/Pantalon2.webp",
+  "precio": 39.99
+  }
+],
+
+"productosCalzado": [
+  {
+      "id": 11,
+      "nombre": "Zapatilla",
+      "imagen": "img/Zapatilla1.webp",
+      "precio": 29.99
+  },
+  {
+      "id": 12,
+      "nombre": "Zapatilla",
+      "imagen": "img/Zapatilla2.webp",
+      "precio": 39.99
+    },
+    {
+      "id": 13,
+      "nombre": "Zapatilla",
+      "imagen": "img/Zapatilla3.webp",
+      "precio": 49.99
+    },
+    {
+      "id": 14,
+      "nombre": "Zapatilla",
+      "imagen": "img/Zapatilla4.webp",
+      "precio": 19.99
+    },
+  {
+      "id": 15,
+      "nombre": "Zapatilla",
+      "imagen": "img/Zapatilla5.webp",
+      "precio": 24.99
+  }
+],
+
+"productosAccesorios": [
+  {
+      "id": 16,
+      "nombre": "Riñonera",
+      "imagen": "img/Accesorio1.webp",
+      "precio": 29.99
+  },
+  {
+      "id": 17,
+      "nombre": "Gorra",
+      "imagen": "img/Accesorio2.webp",
+      "precio": 39.99
+    },
+  {
+      "id": 18,
+      "nombre": "Medias",
+      "imagen": "img/Accesorio3.webp",
+      "precio": 49.99
+  }
+]
+}
